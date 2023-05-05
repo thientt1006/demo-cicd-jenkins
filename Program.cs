@@ -2,7 +2,7 @@
 // Console.WriteLine("Hello, World!");
 // Console.WriteLine("Hello Thien");
 
-int a = 1;
+int a = 10;
 
 if (a > 0)
 {
